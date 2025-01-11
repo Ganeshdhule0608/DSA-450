@@ -11,9 +11,7 @@ int unionsetcount(int arr[], int n, int brr[], int m){
 
 for(int i = 0; i<n; i++){
     unionSet.insert(arr[i]);
-
 }
-
 for(int i = 0; i<m; i++){
     unionSet.insert(brr[i]);
 }
