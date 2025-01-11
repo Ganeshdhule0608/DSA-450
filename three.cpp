@@ -19,5 +19,5 @@ int main(){
     vector<int> arr = {12,13,34,55,66,2};
     int k = 3;
     cout<<"kth smallest no "<<kthSmallest(arr, k)<<endl;
-    cout<<"kth largest no "<<kthLargest(arr, k)<<endl;
+   cout<<"kth largest no "<<kthLargest(arr, k)<<endl;
 }
